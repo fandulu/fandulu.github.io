@@ -2,6 +2,7 @@
 
 ## Conference Awards
 - *2023* IROS Best Paper Award Finalist on Cognitive Robotics.
+- <img src='../../images/iros_2023_finalist.png' alt="sym" width="30%">
 ## Challenges Awards
 - *2022* ECCV Multiple Object Tracking and Segmentation in Complex Environments Workshop Challenges: :2nd_place_medal:2nd-place award on multiple people tracking in group dance task.
 - <img src='../../images/eccv2022_2nd.png' alt="sym" width="30%">
