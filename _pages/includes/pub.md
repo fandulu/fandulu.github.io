@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## Multi-camera Gymnasst Tracking Module In Fujitsu Gymnastic Judging Support System
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fujitsu Gymnastic Judging Support System</div><img src='../../images/fujitsu_gym.png' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fujitsu Gymnastic Judging Support System</div><img src='../../images/fujitsu_gym.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - ``CVM Journal 2023`` [A Unified Multi-view Multi-person Tracking Framework](https://arxiv.org/pdf/2302.03820.pdf), \|**Fan Yang**, Shigeyuki Odashima, Sosuke Yamao, Hiroaki Fujimoto, Shoichi Masui and Shan Jiang 
@@ -13,9 +13,9 @@
 </div>
 
 
-My co-author papers and reports are shown on [my Google Scholar](https://scholar.google.co.jp/citations?user=LndV87gAAAAJ). About 12 Patents have not been made public yet.
+My co-author papers and reports are shown on [my Google Scholar](https://scholar.google.co.jp/citations?user=LndV87gAAAAJ). About 12 Patents have not been made online yet.
 
-#### :movie_camera::dancers::wrestling: Action Recognition
+#### 🎥🤸🤼 Action Recognition
 - ``IROS 2023`` [Is Weakly-supervised Action Segmentation Ready For Human-Robot Interaction? No, Let's Improve It With Action-union Learning
 ](https://www.researchgate.net/profile/Fan-Yang-41/publication/372548891_Is_Weakly-supervised_Action_Segmentation_Ready_For_Human-Robot_Interaction_No_Let's_Improve_It_With_Action-union_Learning/links/64be18dab9ed6874a54076e7/Is-Weakly-supervised-Action-Segmentation-Ready-For-Human-Robot-Interaction-No-Lets-Improve-It-With-Action-union-Learning.pdf) \| **(Best Paper Award Finalists on Cognitive Robotics)**\|**Fan Yang**, Shigeyuki Odashima, Shoichi Masui, Shan Jiang.
 
@@ -27,7 +27,7 @@ My co-author papers and reports are shown on [my Google Scholar](https://scholar
 
 
 
-#### :movie_camera::footprints: Tracking
+#### 🎥:👣 Tracking
 
 
   
