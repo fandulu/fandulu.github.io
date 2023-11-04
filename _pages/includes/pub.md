@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-#### 🎥🎥🎥🎥Multi-camera Gymnasst Tracking Module In Fujitsu Gymnastic Judging Support System
+#### Multi-camera Gymnasst Tracking Module In Fujitsu Gymnastic Judging Support System
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fujitsu Gymnastic Judging Support System</div><img src='../../images/fujitsu_gym.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -27,7 +27,7 @@ My co-author papers and reports are shown on [my Google Scholar](https://scholar
 
 
 
-#### 🎥:👣 Single-camera Multi-object Tracking
+#### 🎥:👣 Other Multi-object Tracking
   
 - ``Image and Vision Computing 2022`` [Tackling multiple object tracking with complicated motions—re-designing the integration of motion and appearance](https://www.researchgate.net/profile/Fan-Yang-41/publication/361542960_Tackling_multiple_object_tracking_with_complicated_motions_-_Re-designing_the_integration_of_motion_and_appearance/links/62c915c33bbe636e0c4debe0/Tackling-multiple-object-tracking-with-complicated-motions-Re-designing-the-integration-of-motion-and-appearance.pdf) \|**Fan Yang**, Xin Chang, Yang Wu, Sakriani Sakti, Satoshi Nakamura
 
