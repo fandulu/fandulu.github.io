@@ -27,9 +27,7 @@ My co-author papers and reports are shown on [my Google Scholar](https://scholar
 
 
 
-#### 🎥:👣 Tracking
-
-
+#### 🎥:👣 Single-camera Multi-object Tracking
   
 - ``Image and Vision Computing 2022`` [Tackling multiple object tracking with complicated motions—re-designing the integration of motion and appearance](https://www.researchgate.net/profile/Fan-Yang-41/publication/361542960_Tackling_multiple_object_tracking_with_complicated_motions_-_Re-designing_the_integration_of_motion_and_appearance/links/62c915c33bbe636e0c4debe0/Tackling-multiple-object-tracking-with-complicated-motions-Re-designing-the-integration-of-motion-and-appearance.pdf) \|**Fan Yang**, Xin Chang, Yang Wu, Sakriani Sakti, Satoshi Nakamura
 
