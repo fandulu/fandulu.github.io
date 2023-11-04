@@ -2,7 +2,7 @@ I am currently working as a senior researcher at Fujitsu Research in Japan. I gr
 
 My research interests include
 - Multi-camera motion capturing
-- Multi-object tracking
+- Pose estimation
 - Action recognition
   
 Please feel free to email me at hongheyangfan@gmail.com.
