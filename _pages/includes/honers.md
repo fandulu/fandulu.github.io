@@ -14,7 +14,7 @@
 - <img src='../../images/cvpr2020_mots.png' alt="sym" width="30%">
 - *2020* CVPR Workshop on Autonomous Driving (WAD) Challenges: 🥇1st-place award on BDD100K multi-object tracking task.
 - <img src='../../images/cvpr2020_1st.png' alt="sym" width="30%">
-- *2017* ICCV Workshop on 3D Hand Pose Estimation Challenges: 🥇1st-place award on the object interaction task and 2nd place on the tracking task.
+- *2017* ICCV Workshop on 3D Hand Pose Estimation Challenges: 🥇1st-place award on the object interaction task and 🥈2nd-place award on the tracking task.
 - <img src='../../images/cvpr2017_1st.png' alt="sym" width="30%">
 ## Scholarships:
 - *2019* NAIST Excellent Student Scholarship.
