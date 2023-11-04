@@ -1,5 +1,7 @@
 
-# 📝 Publications 
+# 📝 Publications
+
+My co-author papers and reports are shown on [my Google Scholar](https://scholar.google.co.jp/citations?user=LndV87gAAAAJ). About 12 Patents have not been made online yet.
 
 #### Multi-camera Gymnasst Tracking Module In Fujitsu Gymnastic Judging Support System
 
@@ -11,9 +13,6 @@
 - Our Gymnastic Judging Support System has been successfully applied in 10 apparatuses at [the 52nd FIG Artistic Gymnastics World Championships](https://www.youtube.com/watch?v=CinAYBZYANg). I was responsible for developing the multi-camera gymnast detection and tracking modules for our system. 
 </div>
 </div>
-
-
-My co-author papers and reports are shown on [my Google Scholar](https://scholar.google.co.jp/citations?user=LndV87gAAAAJ). About 12 Patents have not been made online yet.
 
 #### 🎥🤸🤼 Action Recognition
 - ``IROS 2023`` [Is Weakly-supervised Action Segmentation Ready For Human-Robot Interaction? No, Let's Improve It With Action-union Learning
