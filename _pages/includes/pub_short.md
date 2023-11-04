@@ -3,7 +3,7 @@
 
 My co-author papers are shown on [my Google Scholar](https://scholar.google.co.jp/citations?user=LndV87gAAAAJ).
 
-#### :movie_camera::dancers::wrestling: Action Recognition
+#### 🎥🤸🤼  Action Recognition
 - ``IROS 2023`` [Is Weakly-supervised Action Segmentation Ready For Human-Robot Interaction? No, Let's Improve It With Action-union Learning
 ](https://www.researchgate.net/profile/Fan-Yang-41/publication/372548891_Is_Weakly-supervised_Action_Segmentation_Ready_For_Human-Robot_Interaction_No_Let's_Improve_It_With_Action-union_Learning/links/64be18dab9ed6874a54076e7/Is-Weakly-supervised-Action-Segmentation-Ready-For-Human-Robot-Interaction-No-Lets-Improve-It-With-Action-union-Learning.pdf) \| **(Best Paper Award Finalists on Cognitive Robotics)**\|**Fan Yang**, Shigeyuki Odashima, Shoichi Masui, Shan Jiang.
 
@@ -15,7 +15,7 @@ My co-author papers are shown on [my Google Scholar](https://scholar.google.co.j
 
 
 
-#### :movie_camera::footprints: Tracking
+#### 🎥:👣   Multi-Object Tracking
 
 - ``CVM Journal 2023`` [A Unified Multi-view Multi-person Tracking Framework](https://arxiv.org/pdf/2302.03820.pdf), \|**Fan Yang**, Shigeyuki Odashima, Sosuke Yamao, Hiroaki Fujimoto, Shoichi Masui and Shan Jiang
   
