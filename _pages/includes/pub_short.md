@@ -32,7 +32,7 @@ My co-author papers are shown on [my Google Scholar](https://scholar.google.co.j
 #### Others
 - ``IEEE Transactions on Multimedia 2020``[Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval](https://github.com/fandulu/IHDA/blob/master/pictures/paper.pdf) \| **Fan Yang**, Wu Yang, Wang Zheng, Li Xiang, Sakti Sakriani, Nakamura Satoshi \| [code](https://github.com/fandulu/IHDA)
   
-- ``IEEE EMBC 2018``[Application of SsVGMM to medical data-classification with novelty detection](https://github.com/fandulu/SsVGMM/blob/master/Application_of_SsVGMM_to_Medical_Data___Classification_with_Novelty_Detection.pdf)\| **Fan Yang**, Soriano Jaymar, Kubo Takatomi, Ikeda Kazushi \| [code](https://github.com/fandulu/IHDA)
+- ``IEEE EMBC 2018``[Application of SsVGMM to medical data-classification with novelty detection](https://github.com/fandulu/SsVGMM/blob/master/Application_of_SsVGMM_to_Medical_Data___Classification_with_Novelty_Detection.pdf)\| **Fan Yang**, Soriano Jaymar, Kubo Takatomi, Ikeda Kazushi \| [code](https://github.com/fandulu/SsVGMM)
   
 - ``ICONIP 2017``[A hierarchical mixture density network](https://arxiv.org/pdf/1910.13523.pdf)\| **Fan Yang**, Soriano Jaymar, Kubo Takatomi, Ikeda Kazushi 
 
