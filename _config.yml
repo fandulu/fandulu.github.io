@@ -7,17 +7,12 @@
 
 # Site Settings
 title                    : "Fan Yang (杨帆)"
-description              : "Researcher in Fujitsu Research, Multi-camera Motion Tracking and Action Recognition."
+description              : "Senior Researcher in Fujitsu Research, Multi-camera Motion Tracking and Action Recognition."
 repository               : "fandulu/fandulu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
-
-# SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_analytics_id      : #G-SWFCX99KQZ
 
 # Site Author
 author:
