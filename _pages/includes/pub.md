@@ -7,8 +7,7 @@
 
 - ``CVM Journal 2023`` [A Unified Multi-view Multi-person Tracking Framework](https://arxiv.org/pdf/2302.03820.pdf), \|**Fan Yang**, Shigeyuki Odashima, Sosuke Yamao, Hiroaki Fujimoto, Shoichi Masui and Shan Jiang 
 - ``WACV 2023`` [Hard to Track Objects with Irregular Motions and Similar Appearances? Make It Easier by Buffering the Matching Space](https://arxiv.org/pdf/2211.14317.pdf), \|**Fan Yang**, Shigeyuki Odashima, Shoichi Masui, Shan Jiang
-- Others are under review.
-- Our Gymnastic Judging Support System has been successfully applied in 10 apparatuses at [the 52nd FIG Artistic Gymnastics World Championships](https://www.youtube.com/watch?v=CinAYBZYANg). I was responsible for developing the multi-camera gymnast detection and tracking modules for our system.
+- Our Gymnastic Judging Support System has been successfully applied in 10 apparatuses at [the 52nd FIG Artistic Gymnastics World Championships](https://www.youtube.com/watch?v=CinAYBZYANg). I was responsible for developing the multi-camera gymnast detection and tracking modules for our system. 
 </div>
 </div>
 
