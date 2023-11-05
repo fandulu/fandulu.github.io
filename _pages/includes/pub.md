@@ -9,7 +9,6 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box-text' markdown="1">
 
 - ``CVM Journal 2023`` [A Unified Multi-view Multi-person Tracking Framework](https://arxiv.org/pdf/2302.03820.pdf), \|**Fan Yang**, Shigeyuki Odashima, Sosuke Yamao, Hiroaki Fujimoto, Shoichi Masui and Shan Jiang
-- 
 - Our Gymnastic Judging Support System has been successfully applied in 10 apparatuses at [the 52nd FIG Artistic Gymnastics World Championships](https://www.youtube.com/watch?v=CinAYBZYANg). I was responsible for developing the multi-camera gymnast detection and tracking modules for our system. About 12 related patents have not been made online yet and More details to come in my journals currently under review.
 </div>
 </div>
