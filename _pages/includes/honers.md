@@ -7,13 +7,18 @@
 - *2022* ECCV Multiple Object Tracking and Segmentation in Complex Environments Workshop Challenges: 🥈2nd-place award on multiple people tracking in group dance task.
 - <p float="left">
   <img src="../../images/eccv2022_2nd.png" width="27.5%" />
-  <img src="../../images/dancetrack.jpeg" width="45.5%" />
+  <a href="https://www.youtube.com/watch?v=OLiiFsi4zg8" target="_blank">
+   <img src="https://img.youtube.com//vi/OLiiFsi4zg8/default.jpg" alt="Watch the video" width="260" height="180" border="10" />
+  </a>
+
 
 
 - *2022* CVPR SoccerNet & ActivityNet Workshops Challenges: 🥈2nd-place award on multi-camera multi-person tracking task.
 - <p float="left">
   <img src="../../images/cvpr2022_2nd.png" width="27.5%" />
-  <img src="../../images/soccernet.png" width="27.5%" />
+  <a href="https://www.youtube.com/watch?v=OLiiFsi4zg8" target="_blank">
+   <img src="https://img.youtube.com//vi/OLiiFsi4zg8/default.jpg" alt="Watch the video" width="260" height="180" border="10" />
+  </a>
 
 
 - *2021* ICCV Multi-camera Multi-person Tracking Workshop Challenges: 🏅4th-place award on multi-camera multi-person tracking task. Click the image to see the report on YouTube.
