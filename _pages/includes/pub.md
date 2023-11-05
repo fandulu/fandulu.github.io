@@ -36,6 +36,8 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box-text' markdown="1">
 ``Image and Vision Computing 2021`` [ReMOT: A model-agnostic refinement for multiple object tracking](https://ahcweb01.naist.jp/papers/journal/2020/2020_IVC_fan-ya_2/202012_IVC_fan-ya.paper.pdf) \|**Fan Yang**, Xin Chang, Yang Wu, Sakriani Sakti, Satoshi Nakamura
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLPT</div><img src='../../images/mlpt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ``ICASSP 2020``[Using panoramic videos for multi-person localization and tracking in a 3D panoramic coordinate](https://arxiv.org/pdf/1911.10535.pdf) \|**Fan Yang**, Feiran Li, Yang Wu, Sakriani Sakti, Satoshi Nakamura\| [code](https://github.com/fandulu/MPLT)
   
 
