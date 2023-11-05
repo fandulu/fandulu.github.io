@@ -24,7 +24,7 @@
 <p float="left">
   <img src="../../images/cvpr2017_1st.png" width="27.5%" />
   <a href="https://www.youtube.com/watch?v=mZTF1iKfz-o" target="_blank">
-   <img src="https://img.youtube.com//vi/mZTF1iKfz-o/default.jpg" alt="Watch the video" width="300" height="190" border="10" />
+   <img src="https://img.youtube.com//vi/mZTF1iKfz-o/default.jpg" alt="Watch the video" width="240" height="160" border="10" />
   </a>
 </p>
 
