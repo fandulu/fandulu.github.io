@@ -11,11 +11,23 @@
 - *2021* ICCV Multi-camera Multi-person Tracking Workshop Challenges: 🏅4th-place award on multi-camera multi-person tracking task.
 - <img src='../../images/iccv2021_4th.png' alt="sym" width="30%">
 - *2020* CVPR MOTS Workshop Challenges: 🥇1st-place award on multi-object tracking and segmentation task.
-- <img src='../../images/cvpr2020_mots.png' alt="sym" width="30%">
+<p float="left">
+  <img src="../../images/cvpr2020_mots.png" width="27.5%" />
+  <img src="../../images/mots.gif" width="33%" />
+</p>
 - *2020* CVPR Workshop on Autonomous Driving (WAD) Challenges: 🥇1st-place award on BDD100K multi-object tracking task.
-- <img src='../../images/cvpr2020_1st.png' alt="sym" width="30%">
+<p float="left">
+  <img src="../../images/cvpr2020_1st.png" width="27.5%" />
+  <img src="../../images/bdd100k.gif" width="33%" />
+</p>
 - *2017* ICCV Workshop on 3D Hand Pose Estimation Challenges: 🥇1st-place award on the object interaction task and 🥈2nd-place award on the tracking task.
-- <img src='../../images/cvpr2017_1st.png' alt="sym" width="30%">
+<p float="left">
+  <img src="../../images/cvpr2017_1st.png" width="27.5%" />
+  <a href="https://www.youtube.com/watch?v=mZTF1iKfz-o" target="_blank">
+   <img src="https://img.youtube.com//vi/mZTF1iKfz-o/default.jpg" alt="Watch the video" width="300" height="190" border="10" />
+  </a>
+</p>
+
 ## Scholarships:
 - *2019* NAIST Excellent Student Scholarship.
 - *2018-2019* Donghua Education Scholarship.
