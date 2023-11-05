@@ -46,8 +46,12 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
 - <img src='../../images/remot.png' alt="sym" width="40%">
 
 - ``ICASSP 2020``[Using panoramic videos for multi-person localization and tracking in a 3D panoramic coordinate](https://arxiv.org/pdf/1911.10535.pdf) \|**Fan Yang**, Feiran Li, Yang Wu, Sakriani Sakti, Satoshi Nakamura\| [code](https://github.com/fandulu/MPLT)
-- <img src='../../images/mlpt.png' alt="sym" width="40%">
-  
+<p float="left">
+  <img src="../../images/mlpt.png" width="40%" />
+  <img src="../../images/mlpt.gif" width="20%" />
+</p>
+
+
 
 #### 🎥Pose Estimation
 - ``IEEE ACCESS 2019`` [A soft proposal segmentation network (SPS-Net) for hand segmentation on depth videos](https://ieeexplore.ieee.org/document/8649643) \|**Fan Yang**, Wu Yang, Sakti Sakriani, Nakamura Satoshi
