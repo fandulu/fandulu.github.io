@@ -15,7 +15,11 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
 #### 🎥🤸🤼 Action Recognition
 - ``IROS 2023`` [Is Weakly-supervised Action Segmentation Ready For Human-Robot Interaction? No, Let's Improve It With Action-union Learning
 ](https://www.researchgate.net/profile/Fan-Yang-41/publication/372548891_Is_Weakly-supervised_Action_Segmentation_Ready_For_Human-Robot_Interaction_No_Let's_Improve_It_With_Action-union_Learning/links/64be18dab9ed6874a54076e7/Is-Weakly-supervised-Action-Segmentation-Ready-For-Human-Robot-Interaction-No-Lets-Improve-It-With-Action-union-Learning.pdf) \| **(Best Paper Award Finalists on Cognitive Robotics)**\|**Fan Yang**, Shigeyuki Odashima, Shoichi Masui, Shan Jiang.
-- <img src='../../images/union_as.png' alt="sym" width="40%"> 
+<p float="left">
+  <img src="../../images/union_as.png" width="40%" />
+  <img src="../../images/iros_union_as_result.png" width="35%" />
+</p>
+
 
 - ``arXiv 2022``[Actor-identified Spatiotemporal Action Detection](https://arxiv.org/pdf/2208.12940.pdf) \| **Fan Yang**, Norimichi Ukita, Sakti Sakriani, Nakamura Satoshi [code](https://github.com/fandulu/ASAD/tree/main)
 - <img src='../../images/reidwdw.png' alt="sym" width="40%"> 
