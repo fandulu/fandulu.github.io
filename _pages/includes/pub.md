@@ -8,8 +8,7 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fujitsu Gymnastic Judging Support System</div><img src='../../images/fujitsu_gym.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- ``CVM Journal 2023`` [A Unified Multi-view Multi-person Tracking Framework](https://arxiv.org/pdf/2302.03820.pdf), \|**Fan Yang**, Shigeyuki Odashima, Sosuke Yamao, Hiroaki Fujimoto, Shoichi Masui and Shan Jiang
-- Our Gymnastic Judging Support System has been successfully applied in 10 apparatuses at [the 52nd FIG Artistic Gymnastics World Championships](https://www.youtube.com/watch?v=CinAYBZYANg). I was responsible for developing the multi-camera gymnast detection and tracking modules for our system. About 12 related patents have not been made online yet and More details to come in my journals currently under review.
+- Our Gymnastic Judging Support System has been successfully applied in 10 apparatuses at [the 52nd FIG Artistic Gymnastics World Championships](https://www.youtube.com/watch?v=CinAYBZYANg). I was responsible for developing the multi-camera gymnast detection and tracking modules for our system. About 12 related patents have not been made online yet and more details to come in my journals currently under review.
 </div>
 </div>
 
@@ -30,6 +29,9 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
 
 
 #### 🎥👣 Multi-object Tracking
+- ``CVM Journal 2023`` [A Unified Multi-view Multi-person Tracking Framework](https://arxiv.org/pdf/2302.03820.pdf), \|**Fan Yang**, Shigeyuki Odashima, Sosuke Yamao, Hiroaki Fujimoto, Shoichi Masui and Shan Jiang
+- <img src='../../images/UniMMT.png' alt="sym" width="40%">
+
 - ``WACV 2023`` [Hard to Track Objects with Irregular Motions and Similar Appearances? Make It Easier by Buffering the Matching Space](https://arxiv.org/pdf/2211.14317.pdf), \|**Fan Yang**, Shigeyuki Odashima, Shoichi Masui, Shan Jiang
 - <img src='../../images/cbiou.png' alt="sym" width="40%"> 
   
