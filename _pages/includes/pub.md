@@ -8,7 +8,13 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fujitsu Gymnastic Judging Support System</div><img src='../../images/fujitsu_gym.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Our Gymnastic Judging Support System has been successfully applied in 10 apparatuses at [the 52nd FIG Artistic Gymnastics World Championships](https://www.youtube.com/watch?v=CinAYBZYANg). I was responsible for developing the multi-camera gymnast detection and tracking modules for our system. About 12 related patents have not been made online yet and more details to come in my journals currently under review.
+- Our Gymnastic Judging Support System has been successfully applied in 10 apparatuses at [the 52nd FIG Artistic Gymnastics World Championships](https://www.youtube.com/watch?v=CinAYBZYANg). I was responsible for developing the multi-camera gymnast detection and tracking modules for our system. Multiple related patents have been applied (not online yet):
+  - "Cross-view Bounding Box Interpolation" (2021)
+  - "Semi-supervised Multi-frame Multi-view Athlete Detection" (2022)
+  - "Collaborative Muti-frame Multi-view Triangulation" (2022)
+  - "Hybrid Multi-camera Athlete Tracking" (2022)
+    
+- More details to come in my journals currently under review.
 </div>
 </div>
 
