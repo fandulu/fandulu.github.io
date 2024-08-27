@@ -14,7 +14,7 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
   - "Collaborative Muti-frame Multi-view Triangulation" (2022)
   - "Hybrid Multi-camera Athlete Tracking" (2022)
     
-- More details to come in my journals currently under review.
+- More details see [‎GymTrack](https://www.researchgate.net/publication/383333983_Enhancing_Multi-Camera_Gymnast_Tracking_Through_Domain_Knowledge_Integration)
 </div>
 </div>
 
