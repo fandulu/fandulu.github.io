@@ -5,6 +5,7 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
 
 #### 🎥Multi-camera Registration
 - ``TCSVT 2024`` [YOWO: You Only Walk Once to Jointly Map An Indoor Scene and Register Ceiling-mounted Cameras](https://www.researchgate.net/profile/Fan-Yang-41/publication/383528601_YOWO_You_Only_Walk_Once_to_Jointly_Map_An_Indoor_Scene_and_Register_Ceiling-mounted_Cameras/links/66d11d40b1606e24c2a88a59/YOWO-You-Only-Walk-Once-to-Jointly-Map-An-Indoor-Scene-and-Register-Ceiling-mounted-Cameras.pdf)
+- [Video](https://www.youtube.com/watch?v=fSYlnReyb38)
 
 #### 🎥🤸Multi-camera Gymnast Tracking Module In Fujitsu Gymnastic Judging Support System
 - ``TCSVT 2024`` [Enhancing Multi-Camera Gymnast Tracking Through Domain Knowledge Integration](https://www.researchgate.net/publication/383333983_Enhancing_Multi-Camera_Gymnast_Tracking_Through_Domain_Knowledge_Integration))
