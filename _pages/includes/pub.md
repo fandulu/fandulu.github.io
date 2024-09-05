@@ -3,7 +3,11 @@
 
 More papers and reports are shown on [my Google Scholar](https://scholar.google.co.jp/citations?user=LndV87gAAAAJ). 
 
-#### Multi-camera Gymnast Tracking Module In Fujitsu Gymnastic Judging Support System
+#### 🎥Multi-camera Registration
+- ``TCSVT 2024`` [YOWO: You Only Walk Once to Jointly Map An Indoor Scene and Register Ceiling-mounted Cameras](https://www.researchgate.net/profile/Fan-Yang-41/publication/383528601_YOWO_You_Only_Walk_Once_to_Jointly_Map_An_Indoor_Scene_and_Register_Ceiling-mounted_Cameras/links/66d11d40b1606e24c2a88a59/YOWO-You-Only-Walk-Once-to-Jointly-Map-An-Indoor-Scene-and-Register-Ceiling-mounted-Cameras.pdf)
+
+#### 🎥🤸Multi-camera Gymnast Tracking Module In Fujitsu Gymnastic Judging Support System
+- ``TCSVT 2024`` [Enhancing Multi-Camera Gymnast Tracking Through Domain Knowledge Integration](https://www.researchgate.net/publication/383333983_Enhancing_Multi-Camera_Gymnast_Tracking_Through_Domain_Knowledge_Integration))
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Fujitsu Gymnastic Judging Support System</div><img src='../../images/fujitsu_gym.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -14,11 +18,10 @@ More papers and reports are shown on [my Google Scholar](https://scholar.google.
   - "Collaborative Muti-frame Multi-view Triangulation" (2022)
   - "Hybrid Multi-camera Athlete Tracking" (2022)
     
-- More details see [‎GymTrack](https://www.researchgate.net/publication/383333983_Enhancing_Multi-Camera_Gymnast_Tracking_Through_Domain_Knowledge_Integration)
 </div>
 </div>
 
-#### 🎥🤸🤼 Action Recognition
+#### 🎥🤼 Action Recognition
 - ``IROS 2023`` [Is Weakly-supervised Action Segmentation Ready For Human-Robot Interaction? No, Let's Improve It With Action-union Learning
 ](https://www.researchgate.net/profile/Fan-Yang-41/publication/372548891_Is_Weakly-supervised_Action_Segmentation_Ready_For_Human-Robot_Interaction_No_Let's_Improve_It_With_Action-union_Learning/links/64be18dab9ed6874a54076e7/Is-Weakly-supervised-Action-Segmentation-Ready-For-Human-Robot-Interaction-No-Lets-Improve-It-With-Action-union-Learning.pdf) \| **(Best Paper Award Finalists on Cognitive Robotics)**\|**Fan Yang**, Shigeyuki Odashima, Shoichi Masui, Shan Jiang.
 - <p float="left">
